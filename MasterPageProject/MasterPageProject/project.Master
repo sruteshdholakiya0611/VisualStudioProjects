@@ -1,0 +1,39 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="project.master.cs" Inherits="MasterPageProject.project" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="Styles.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+         <div id="topContent">
+          <a href="Default.aspx">Master Pages </a>
+         </div>
+ 
+         <div id="mainContent">
+         <asp:ContentPlaceHolder id="MainContent" runat="server">
+         </asp:ContentPlaceHolder>
+         </div>
+ 
+         <div id="leftContent">
+         <h3>Lessons</h3>    
+         <ul>
+         <li>TODO</li>
+         </ul>
+         <h3>News</h3>    
+         <ul>
+         <li>TODO</li>
+         </ul>
+         </div>
+ 
+         <div id="footerContent">
+            &nbsp;<asp:Label ID="Label1" runat="server" Text="@Copywrite"></asp:Label>
+         </div>
+     </form>
+</body>
+</html>

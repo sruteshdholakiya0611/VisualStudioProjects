@@ -1,0 +1,11 @@
+C:\Users\srute\source\repos\BasicWindowsFormsApp\BasicWindowsFormsApp\bin\Debug\BasicWindowsFormsApp.exe.config
+C:\Users\srute\source\repos\BasicWindowsFormsApp\BasicWindowsFormsApp\bin\Debug\BasicWindowsFormsApp.exe
+C:\Users\srute\source\repos\BasicWindowsFormsApp\BasicWindowsFormsApp\bin\Debug\BasicWindowsFormsApp.pdb
+C:\Users\srute\source\repos\BasicWindowsFormsApp\BasicWindowsFormsApp\obj\Debug\BasicWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\srute\source\repos\BasicWindowsFormsApp\BasicWindowsFormsApp\obj\Debug\BasicWindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\srute\source\repos\BasicWindowsFormsApp\BasicWindowsFormsApp\obj\Debug\BasicWindowsFormsApp.Form1.resources
+C:\Users\srute\source\repos\BasicWindowsFormsApp\BasicWindowsFormsApp\obj\Debug\BasicWindowsFormsApp.Properties.Resources.resources
+C:\Users\srute\source\repos\BasicWindowsFormsApp\BasicWindowsFormsApp\obj\Debug\BasicWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\srute\source\repos\BasicWindowsFormsApp\BasicWindowsFormsApp\obj\Debug\BasicWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\srute\source\repos\BasicWindowsFormsApp\BasicWindowsFormsApp\obj\Debug\BasicWindowsFormsApp.exe
+C:\Users\srute\source\repos\BasicWindowsFormsApp\BasicWindowsFormsApp\obj\Debug\BasicWindowsFormsApp.pdb

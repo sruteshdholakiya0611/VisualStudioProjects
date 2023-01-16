@@ -1,0 +1,8 @@
+C:\Users\srute\source\repos\Exception_HandlingthrowApp\Exception_HandlingthrowApp\bin\Debug\Exception_HandlingthrowApp.exe.config
+C:\Users\srute\source\repos\Exception_HandlingthrowApp\Exception_HandlingthrowApp\bin\Debug\Exception_HandlingthrowApp.exe
+C:\Users\srute\source\repos\Exception_HandlingthrowApp\Exception_HandlingthrowApp\bin\Debug\Exception_HandlingthrowApp.pdb
+C:\Users\srute\source\repos\Exception_HandlingthrowApp\Exception_HandlingthrowApp\obj\Debug\Exception_HandlingthrowApp.csproj.AssemblyReference.cache
+C:\Users\srute\source\repos\Exception_HandlingthrowApp\Exception_HandlingthrowApp\obj\Debug\Exception_HandlingthrowApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\srute\source\repos\Exception_HandlingthrowApp\Exception_HandlingthrowApp\obj\Debug\Exception_HandlingthrowApp.csproj.CoreCompileInputs.cache
+C:\Users\srute\source\repos\Exception_HandlingthrowApp\Exception_HandlingthrowApp\obj\Debug\Exception_HandlingthrowApp.exe
+C:\Users\srute\source\repos\Exception_HandlingthrowApp\Exception_HandlingthrowApp\obj\Debug\Exception_HandlingthrowApp.pdb

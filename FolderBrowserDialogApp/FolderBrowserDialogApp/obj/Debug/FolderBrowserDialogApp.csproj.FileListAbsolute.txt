@@ -1,0 +1,11 @@
+C:\Users\srute\source\repos\FolderBrowserDialogApp\FolderBrowserDialogApp\bin\Debug\FolderBrowserDialogApp.exe.config
+C:\Users\srute\source\repos\FolderBrowserDialogApp\FolderBrowserDialogApp\bin\Debug\FolderBrowserDialogApp.exe
+C:\Users\srute\source\repos\FolderBrowserDialogApp\FolderBrowserDialogApp\bin\Debug\FolderBrowserDialogApp.pdb
+C:\Users\srute\source\repos\FolderBrowserDialogApp\FolderBrowserDialogApp\obj\Debug\FolderBrowserDialogApp.csproj.AssemblyReference.cache
+C:\Users\srute\source\repos\FolderBrowserDialogApp\FolderBrowserDialogApp\obj\Debug\FolderBrowserDialogApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\srute\source\repos\FolderBrowserDialogApp\FolderBrowserDialogApp\obj\Debug\FolderBrowserDialogApp.Form1.resources
+C:\Users\srute\source\repos\FolderBrowserDialogApp\FolderBrowserDialogApp\obj\Debug\FolderBrowserDialogApp.Properties.Resources.resources
+C:\Users\srute\source\repos\FolderBrowserDialogApp\FolderBrowserDialogApp\obj\Debug\FolderBrowserDialogApp.csproj.GenerateResource.cache
+C:\Users\srute\source\repos\FolderBrowserDialogApp\FolderBrowserDialogApp\obj\Debug\FolderBrowserDialogApp.csproj.CoreCompileInputs.cache
+C:\Users\srute\source\repos\FolderBrowserDialogApp\FolderBrowserDialogApp\obj\Debug\FolderBrowserDialogApp.exe
+C:\Users\srute\source\repos\FolderBrowserDialogApp\FolderBrowserDialogApp\obj\Debug\FolderBrowserDialogApp.pdb

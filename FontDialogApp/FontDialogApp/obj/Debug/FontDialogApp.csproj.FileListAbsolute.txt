@@ -1,0 +1,11 @@
+C:\Users\srute\source\repos\FontDialogApp\FontDialogApp\bin\Debug\FontDialogApp.exe.config
+C:\Users\srute\source\repos\FontDialogApp\FontDialogApp\bin\Debug\FontDialogApp.exe
+C:\Users\srute\source\repos\FontDialogApp\FontDialogApp\bin\Debug\FontDialogApp.pdb
+C:\Users\srute\source\repos\FontDialogApp\FontDialogApp\obj\Debug\FontDialogApp.csproj.AssemblyReference.cache
+C:\Users\srute\source\repos\FontDialogApp\FontDialogApp\obj\Debug\FontDialogApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\srute\source\repos\FontDialogApp\FontDialogApp\obj\Debug\FontDialogApp.Form1.resources
+C:\Users\srute\source\repos\FontDialogApp\FontDialogApp\obj\Debug\FontDialogApp.Properties.Resources.resources
+C:\Users\srute\source\repos\FontDialogApp\FontDialogApp\obj\Debug\FontDialogApp.csproj.GenerateResource.cache
+C:\Users\srute\source\repos\FontDialogApp\FontDialogApp\obj\Debug\FontDialogApp.csproj.CoreCompileInputs.cache
+C:\Users\srute\source\repos\FontDialogApp\FontDialogApp\obj\Debug\FontDialogApp.exe
+C:\Users\srute\source\repos\FontDialogApp\FontDialogApp\obj\Debug\FontDialogApp.pdb

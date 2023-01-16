@@ -1,0 +1,8 @@
+C:\Users\srute\source\repos\MultiDelegatesApp\MultiDelegatesApp\bin\Debug\MultiDelegatesApp.exe.config
+C:\Users\srute\source\repos\MultiDelegatesApp\MultiDelegatesApp\bin\Debug\MultiDelegatesApp.exe
+C:\Users\srute\source\repos\MultiDelegatesApp\MultiDelegatesApp\bin\Debug\MultiDelegatesApp.pdb
+C:\Users\srute\source\repos\MultiDelegatesApp\MultiDelegatesApp\obj\Debug\MultiDelegatesApp.csproj.AssemblyReference.cache
+C:\Users\srute\source\repos\MultiDelegatesApp\MultiDelegatesApp\obj\Debug\MultiDelegatesApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\srute\source\repos\MultiDelegatesApp\MultiDelegatesApp\obj\Debug\MultiDelegatesApp.csproj.CoreCompileInputs.cache
+C:\Users\srute\source\repos\MultiDelegatesApp\MultiDelegatesApp\obj\Debug\MultiDelegatesApp.exe
+C:\Users\srute\source\repos\MultiDelegatesApp\MultiDelegatesApp\obj\Debug\MultiDelegatesApp.pdb

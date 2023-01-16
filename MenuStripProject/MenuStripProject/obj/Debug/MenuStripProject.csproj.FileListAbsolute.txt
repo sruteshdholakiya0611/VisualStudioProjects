@@ -1,0 +1,11 @@
+C:\Users\srute\source\repos\MenuStripProject\MenuStripProject\bin\Debug\MenuStripProject.exe.config
+C:\Users\srute\source\repos\MenuStripProject\MenuStripProject\bin\Debug\MenuStripProject.exe
+C:\Users\srute\source\repos\MenuStripProject\MenuStripProject\bin\Debug\MenuStripProject.pdb
+C:\Users\srute\source\repos\MenuStripProject\MenuStripProject\obj\Debug\MenuStripProject.csproj.AssemblyReference.cache
+C:\Users\srute\source\repos\MenuStripProject\MenuStripProject\obj\Debug\MenuStripProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\srute\source\repos\MenuStripProject\MenuStripProject\obj\Debug\MenuStripProject.Form1.resources
+C:\Users\srute\source\repos\MenuStripProject\MenuStripProject\obj\Debug\MenuStripProject.Properties.Resources.resources
+C:\Users\srute\source\repos\MenuStripProject\MenuStripProject\obj\Debug\MenuStripProject.csproj.GenerateResource.cache
+C:\Users\srute\source\repos\MenuStripProject\MenuStripProject\obj\Debug\MenuStripProject.csproj.CoreCompileInputs.cache
+C:\Users\srute\source\repos\MenuStripProject\MenuStripProject\obj\Debug\MenuStripProject.exe
+C:\Users\srute\source\repos\MenuStripProject\MenuStripProject\obj\Debug\MenuStripProject.pdb

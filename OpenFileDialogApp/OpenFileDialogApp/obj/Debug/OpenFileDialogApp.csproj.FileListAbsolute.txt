@@ -1,0 +1,11 @@
+C:\Users\srute\source\repos\OpenFileDialogApp\OpenFileDialogApp\bin\Debug\OpenFileDialogApp.exe.config
+C:\Users\srute\source\repos\OpenFileDialogApp\OpenFileDialogApp\bin\Debug\OpenFileDialogApp.exe
+C:\Users\srute\source\repos\OpenFileDialogApp\OpenFileDialogApp\bin\Debug\OpenFileDialogApp.pdb
+C:\Users\srute\source\repos\OpenFileDialogApp\OpenFileDialogApp\obj\Debug\OpenFileDialogApp.csproj.AssemblyReference.cache
+C:\Users\srute\source\repos\OpenFileDialogApp\OpenFileDialogApp\obj\Debug\OpenFileDialogApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\srute\source\repos\OpenFileDialogApp\OpenFileDialogApp\obj\Debug\OpenFileDialogApp.Form1.resources
+C:\Users\srute\source\repos\OpenFileDialogApp\OpenFileDialogApp\obj\Debug\OpenFileDialogApp.Properties.Resources.resources
+C:\Users\srute\source\repos\OpenFileDialogApp\OpenFileDialogApp\obj\Debug\OpenFileDialogApp.csproj.GenerateResource.cache
+C:\Users\srute\source\repos\OpenFileDialogApp\OpenFileDialogApp\obj\Debug\OpenFileDialogApp.csproj.CoreCompileInputs.cache
+C:\Users\srute\source\repos\OpenFileDialogApp\OpenFileDialogApp\obj\Debug\OpenFileDialogApp.exe
+C:\Users\srute\source\repos\OpenFileDialogApp\OpenFileDialogApp\obj\Debug\OpenFileDialogApp.pdb

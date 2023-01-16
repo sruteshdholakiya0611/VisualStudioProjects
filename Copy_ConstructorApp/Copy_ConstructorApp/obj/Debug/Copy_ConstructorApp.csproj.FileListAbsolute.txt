@@ -1,0 +1,8 @@
+C:\Users\srute\source\repos\Copy_ConstructorApp\Copy_ConstructorApp\bin\Debug\Copy_ConstructorApp.exe.config
+C:\Users\srute\source\repos\Copy_ConstructorApp\Copy_ConstructorApp\bin\Debug\Copy_ConstructorApp.exe
+C:\Users\srute\source\repos\Copy_ConstructorApp\Copy_ConstructorApp\bin\Debug\Copy_ConstructorApp.pdb
+C:\Users\srute\source\repos\Copy_ConstructorApp\Copy_ConstructorApp\obj\Debug\Copy_ConstructorApp.csproj.AssemblyReference.cache
+C:\Users\srute\source\repos\Copy_ConstructorApp\Copy_ConstructorApp\obj\Debug\Copy_ConstructorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\srute\source\repos\Copy_ConstructorApp\Copy_ConstructorApp\obj\Debug\Copy_ConstructorApp.csproj.CoreCompileInputs.cache
+C:\Users\srute\source\repos\Copy_ConstructorApp\Copy_ConstructorApp\obj\Debug\Copy_ConstructorApp.exe
+C:\Users\srute\source\repos\Copy_ConstructorApp\Copy_ConstructorApp\obj\Debug\Copy_ConstructorApp.pdb

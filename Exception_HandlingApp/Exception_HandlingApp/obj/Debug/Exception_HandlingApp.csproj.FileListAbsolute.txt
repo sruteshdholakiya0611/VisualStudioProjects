@@ -1,0 +1,8 @@
+C:\Users\srute\source\repos\Exception_HandlingApp\Exception_HandlingApp\bin\Debug\Exception_HandlingApp.exe.config
+C:\Users\srute\source\repos\Exception_HandlingApp\Exception_HandlingApp\bin\Debug\Exception_HandlingApp.exe
+C:\Users\srute\source\repos\Exception_HandlingApp\Exception_HandlingApp\bin\Debug\Exception_HandlingApp.pdb
+C:\Users\srute\source\repos\Exception_HandlingApp\Exception_HandlingApp\obj\Debug\Exception_HandlingApp.csproj.AssemblyReference.cache
+C:\Users\srute\source\repos\Exception_HandlingApp\Exception_HandlingApp\obj\Debug\Exception_HandlingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\srute\source\repos\Exception_HandlingApp\Exception_HandlingApp\obj\Debug\Exception_HandlingApp.csproj.CoreCompileInputs.cache
+C:\Users\srute\source\repos\Exception_HandlingApp\Exception_HandlingApp\obj\Debug\Exception_HandlingApp.exe
+C:\Users\srute\source\repos\Exception_HandlingApp\Exception_HandlingApp\obj\Debug\Exception_HandlingApp.pdb

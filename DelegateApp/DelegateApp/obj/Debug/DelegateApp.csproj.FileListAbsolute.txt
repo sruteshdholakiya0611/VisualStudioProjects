@@ -1,0 +1,8 @@
+C:\Users\srute\source\repos\DelegateApp\DelegateApp\bin\Debug\DelegateApp.exe.config
+C:\Users\srute\source\repos\DelegateApp\DelegateApp\bin\Debug\DelegateApp.exe
+C:\Users\srute\source\repos\DelegateApp\DelegateApp\bin\Debug\DelegateApp.pdb
+C:\Users\srute\source\repos\DelegateApp\DelegateApp\obj\Debug\DelegateApp.csproj.AssemblyReference.cache
+C:\Users\srute\source\repos\DelegateApp\DelegateApp\obj\Debug\DelegateApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\srute\source\repos\DelegateApp\DelegateApp\obj\Debug\DelegateApp.csproj.CoreCompileInputs.cache
+C:\Users\srute\source\repos\DelegateApp\DelegateApp\obj\Debug\DelegateApp.exe
+C:\Users\srute\source\repos\DelegateApp\DelegateApp\obj\Debug\DelegateApp.pdb

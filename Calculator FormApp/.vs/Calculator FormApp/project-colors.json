@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "03316533-1278-49cf-9462-e57cdde5d2e2": {
+      "ProjectGuid": "03316533-1278-49cf-9462-e57cdde5d2e2",
+      "DisplayName": "Calculator FormApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

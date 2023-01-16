@@ -1,0 +1,12 @@
+C:\Users\srute\source\repos\InheritingWindowsForms\InheritingWindowsForms\bin\Debug\InheritingWindowsForms.pdb
+C:\Users\srute\source\repos\InheritingWindowsForms\InheritingWindowsForms\obj\Debug\InheritingWindowsForms.csproj.AssemblyReference.cache
+C:\Users\srute\source\repos\InheritingWindowsForms\InheritingWindowsForms\obj\Debug\InheritingWindowsForms.Form1.resources
+C:\Users\srute\source\repos\InheritingWindowsForms\InheritingWindowsForms\obj\Debug\InheritingWindowsForms.Form2.resources
+C:\Users\srute\source\repos\InheritingWindowsForms\InheritingWindowsForms\obj\Debug\InheritingWindowsForms.Properties.Resources.resources
+C:\Users\srute\source\repos\InheritingWindowsForms\InheritingWindowsForms\obj\Debug\InheritingWindowsForms.csproj.GenerateResource.cache
+C:\Users\srute\source\repos\InheritingWindowsForms\InheritingWindowsForms\obj\Debug\InheritingWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\srute\source\repos\InheritingWindowsForms\InheritingWindowsForms\obj\Debug\InheritingWindowsForms.pdb
+C:\Users\srute\source\repos\InheritingWindowsForms\InheritingWindowsForms\bin\Debug\InheritingWindowsForms.exe.config
+C:\Users\srute\source\repos\InheritingWindowsForms\InheritingWindowsForms\bin\Debug\InheritingWindowsForms.exe
+C:\Users\srute\source\repos\InheritingWindowsForms\InheritingWindowsForms\obj\Debug\InheritingWindowsForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\srute\source\repos\InheritingWindowsForms\InheritingWindowsForms\obj\Debug\InheritingWindowsForms.exe

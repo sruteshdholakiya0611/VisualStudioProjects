@@ -1,0 +1,11 @@
+C:\Users\srute\source\repos\RichTextBox\RichTextBox\bin\Debug\RichTextBox.exe.config
+C:\Users\srute\source\repos\RichTextBox\RichTextBox\bin\Debug\RichTextBox.exe
+C:\Users\srute\source\repos\RichTextBox\RichTextBox\bin\Debug\RichTextBox.pdb
+C:\Users\srute\source\repos\RichTextBox\RichTextBox\obj\Debug\RichTextBox.csproj.AssemblyReference.cache
+C:\Users\srute\source\repos\RichTextBox\RichTextBox\obj\Debug\RichTextBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\srute\source\repos\RichTextBox\RichTextBox\obj\Debug\RichTextBox.Form1.resources
+C:\Users\srute\source\repos\RichTextBox\RichTextBox\obj\Debug\RichTextBox.Properties.Resources.resources
+C:\Users\srute\source\repos\RichTextBox\RichTextBox\obj\Debug\RichTextBox.csproj.GenerateResource.cache
+C:\Users\srute\source\repos\RichTextBox\RichTextBox\obj\Debug\RichTextBox.csproj.CoreCompileInputs.cache
+C:\Users\srute\source\repos\RichTextBox\RichTextBox\obj\Debug\RichTextBox.exe
+C:\Users\srute\source\repos\RichTextBox\RichTextBox\obj\Debug\RichTextBox.pdb

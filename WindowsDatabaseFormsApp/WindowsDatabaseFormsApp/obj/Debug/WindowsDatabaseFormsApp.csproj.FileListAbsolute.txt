@@ -1,0 +1,11 @@
+C:\Users\srute\source\repos\WindowsDatabaseFormsApp\WindowsDatabaseFormsApp\bin\Debug\WindowsDatabaseFormsApp.exe.config
+C:\Users\srute\source\repos\WindowsDatabaseFormsApp\WindowsDatabaseFormsApp\bin\Debug\WindowsDatabaseFormsApp.exe
+C:\Users\srute\source\repos\WindowsDatabaseFormsApp\WindowsDatabaseFormsApp\bin\Debug\WindowsDatabaseFormsApp.pdb
+C:\Users\srute\source\repos\WindowsDatabaseFormsApp\WindowsDatabaseFormsApp\obj\Debug\WindowsDatabaseFormsApp.csproj.AssemblyReference.cache
+C:\Users\srute\source\repos\WindowsDatabaseFormsApp\WindowsDatabaseFormsApp\obj\Debug\WindowsDatabaseFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\srute\source\repos\WindowsDatabaseFormsApp\WindowsDatabaseFormsApp\obj\Debug\WindowsDatabaseFormsApp.Form1.resources
+C:\Users\srute\source\repos\WindowsDatabaseFormsApp\WindowsDatabaseFormsApp\obj\Debug\WindowsDatabaseFormsApp.Properties.Resources.resources
+C:\Users\srute\source\repos\WindowsDatabaseFormsApp\WindowsDatabaseFormsApp\obj\Debug\WindowsDatabaseFormsApp.csproj.GenerateResource.cache
+C:\Users\srute\source\repos\WindowsDatabaseFormsApp\WindowsDatabaseFormsApp\obj\Debug\WindowsDatabaseFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\srute\source\repos\WindowsDatabaseFormsApp\WindowsDatabaseFormsApp\obj\Debug\WindowsDatabaseFormsApp.exe
+C:\Users\srute\source\repos\WindowsDatabaseFormsApp\WindowsDatabaseFormsApp\obj\Debug\WindowsDatabaseFormsApp.pdb

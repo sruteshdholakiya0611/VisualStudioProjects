@@ -1,0 +1,13 @@
+C:\Users\srute\source\repos\MDIForm\MDIForm\obj\Debug\MDIForm.csproj.AssemblyReference.cache
+C:\Users\srute\source\repos\MDIForm\MDIForm\obj\Debug\MDIForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\srute\source\repos\MDIForm\MDIForm\obj\Debug\MDIForm.Form1.resources
+C:\Users\srute\source\repos\MDIForm\MDIForm\obj\Debug\MDIForm.Properties.Resources.resources
+C:\Users\srute\source\repos\MDIForm\MDIForm\obj\Debug\MDIForm.csproj.GenerateResource.cache
+C:\Users\srute\source\repos\MDIForm\MDIForm\obj\Debug\MDIForm.csproj.CoreCompileInputs.cache
+C:\Users\srute\source\repos\MDIForm\MDIForm\bin\Debug\MDIForm.exe.config
+C:\Users\srute\source\repos\MDIForm\MDIForm\bin\Debug\MDIForm.exe
+C:\Users\srute\source\repos\MDIForm\MDIForm\bin\Debug\MDIForm.pdb
+C:\Users\srute\source\repos\MDIForm\MDIForm\obj\Debug\MDIForm.exe
+C:\Users\srute\source\repos\MDIForm\MDIForm\obj\Debug\MDIForm.pdb
+C:\Users\srute\source\repos\MDIForm\MDIForm\obj\Debug\MDIForm.Form2.resources
+C:\Users\srute\source\repos\MDIForm\MDIForm\obj\Debug\MDIForm.Form3.resources

@@ -1,0 +1,11 @@
+C:\Users\srute\source\repos\PrintDialogApp\PrintDialogApp\bin\Debug\PrintDialogApp.exe.config
+C:\Users\srute\source\repos\PrintDialogApp\PrintDialogApp\bin\Debug\PrintDialogApp.exe
+C:\Users\srute\source\repos\PrintDialogApp\PrintDialogApp\bin\Debug\PrintDialogApp.pdb
+C:\Users\srute\source\repos\PrintDialogApp\PrintDialogApp\obj\Debug\PrintDialogApp.csproj.AssemblyReference.cache
+C:\Users\srute\source\repos\PrintDialogApp\PrintDialogApp\obj\Debug\PrintDialogApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\srute\source\repos\PrintDialogApp\PrintDialogApp\obj\Debug\PrintDialogApp.Form1.resources
+C:\Users\srute\source\repos\PrintDialogApp\PrintDialogApp\obj\Debug\PrintDialogApp.Properties.Resources.resources
+C:\Users\srute\source\repos\PrintDialogApp\PrintDialogApp\obj\Debug\PrintDialogApp.csproj.GenerateResource.cache
+C:\Users\srute\source\repos\PrintDialogApp\PrintDialogApp\obj\Debug\PrintDialogApp.csproj.CoreCompileInputs.cache
+C:\Users\srute\source\repos\PrintDialogApp\PrintDialogApp\obj\Debug\PrintDialogApp.exe
+C:\Users\srute\source\repos\PrintDialogApp\PrintDialogApp\obj\Debug\PrintDialogApp.pdb

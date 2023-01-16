@@ -1,0 +1,11 @@
+C:\Users\srute\source\repos\ColorDialogApp\ColorDialogApp\bin\Debug\ColorDialogApp.exe.config
+C:\Users\srute\source\repos\ColorDialogApp\ColorDialogApp\bin\Debug\ColorDialogApp.exe
+C:\Users\srute\source\repos\ColorDialogApp\ColorDialogApp\bin\Debug\ColorDialogApp.pdb
+C:\Users\srute\source\repos\ColorDialogApp\ColorDialogApp\obj\Debug\ColorDialogApp.csproj.AssemblyReference.cache
+C:\Users\srute\source\repos\ColorDialogApp\ColorDialogApp\obj\Debug\ColorDialogApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\srute\source\repos\ColorDialogApp\ColorDialogApp\obj\Debug\ColorDialogApp.Form1.resources
+C:\Users\srute\source\repos\ColorDialogApp\ColorDialogApp\obj\Debug\ColorDialogApp.Properties.Resources.resources
+C:\Users\srute\source\repos\ColorDialogApp\ColorDialogApp\obj\Debug\ColorDialogApp.csproj.GenerateResource.cache
+C:\Users\srute\source\repos\ColorDialogApp\ColorDialogApp\obj\Debug\ColorDialogApp.csproj.CoreCompileInputs.cache
+C:\Users\srute\source\repos\ColorDialogApp\ColorDialogApp\obj\Debug\ColorDialogApp.exe
+C:\Users\srute\source\repos\ColorDialogApp\ColorDialogApp\obj\Debug\ColorDialogApp.pdb

@@ -1,0 +1,8 @@
+C:\Users\srute\source\repos\IndexerApplication\IndexerApplication\bin\Debug\IndexerApplication.exe.config
+C:\Users\srute\source\repos\IndexerApplication\IndexerApplication\bin\Debug\IndexerApplication.exe
+C:\Users\srute\source\repos\IndexerApplication\IndexerApplication\bin\Debug\IndexerApplication.pdb
+C:\Users\srute\source\repos\IndexerApplication\IndexerApplication\obj\Debug\IndexerApplication.csproj.AssemblyReference.cache
+C:\Users\srute\source\repos\IndexerApplication\IndexerApplication\obj\Debug\IndexerApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\srute\source\repos\IndexerApplication\IndexerApplication\obj\Debug\IndexerApplication.csproj.CoreCompileInputs.cache
+C:\Users\srute\source\repos\IndexerApplication\IndexerApplication\obj\Debug\IndexerApplication.exe
+C:\Users\srute\source\repos\IndexerApplication\IndexerApplication\obj\Debug\IndexerApplication.pdb

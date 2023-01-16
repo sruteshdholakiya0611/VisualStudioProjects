@@ -1,0 +1,8 @@
+C:\Users\srute\source\repos\Exception_HandlingRe-throwingApp\Exception_HandlingRe-throwingApp\bin\Debug\Exception_HandlingRe-throwingApp.exe.config
+C:\Users\srute\source\repos\Exception_HandlingRe-throwingApp\Exception_HandlingRe-throwingApp\bin\Debug\Exception_HandlingRe-throwingApp.exe
+C:\Users\srute\source\repos\Exception_HandlingRe-throwingApp\Exception_HandlingRe-throwingApp\bin\Debug\Exception_HandlingRe-throwingApp.pdb
+C:\Users\srute\source\repos\Exception_HandlingRe-throwingApp\Exception_HandlingRe-throwingApp\obj\Debug\Exception_HandlingRe-throwingApp.csproj.AssemblyReference.cache
+C:\Users\srute\source\repos\Exception_HandlingRe-throwingApp\Exception_HandlingRe-throwingApp\obj\Debug\Exception_HandlingRe-throwingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\srute\source\repos\Exception_HandlingRe-throwingApp\Exception_HandlingRe-throwingApp\obj\Debug\Exception_HandlingRe-throwingApp.csproj.CoreCompileInputs.cache
+C:\Users\srute\source\repos\Exception_HandlingRe-throwingApp\Exception_HandlingRe-throwingApp\obj\Debug\Exception_HandlingRe-throwingApp.exe
+C:\Users\srute\source\repos\Exception_HandlingRe-throwingApp\Exception_HandlingRe-throwingApp\obj\Debug\Exception_HandlingRe-throwingApp.pdb

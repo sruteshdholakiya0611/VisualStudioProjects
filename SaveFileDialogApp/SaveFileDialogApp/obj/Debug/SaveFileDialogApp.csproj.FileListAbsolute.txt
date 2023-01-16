@@ -1,0 +1,11 @@
+C:\Users\srute\source\repos\SaveFileDialogApp\SaveFileDialogApp\obj\Debug\SaveFileDialogApp.csproj.AssemblyReference.cache
+C:\Users\srute\source\repos\SaveFileDialogApp\SaveFileDialogApp\obj\Debug\SaveFileDialogApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\srute\source\repos\SaveFileDialogApp\SaveFileDialogApp\obj\Debug\SaveFileDialogApp.Form1.resources
+C:\Users\srute\source\repos\SaveFileDialogApp\SaveFileDialogApp\obj\Debug\SaveFileDialogApp.Properties.Resources.resources
+C:\Users\srute\source\repos\SaveFileDialogApp\SaveFileDialogApp\obj\Debug\SaveFileDialogApp.csproj.GenerateResource.cache
+C:\Users\srute\source\repos\SaveFileDialogApp\SaveFileDialogApp\obj\Debug\SaveFileDialogApp.csproj.CoreCompileInputs.cache
+C:\Users\srute\source\repos\SaveFileDialogApp\SaveFileDialogApp\bin\Debug\SaveFileDialogApp.exe.config
+C:\Users\srute\source\repos\SaveFileDialogApp\SaveFileDialogApp\bin\Debug\SaveFileDialogApp.exe
+C:\Users\srute\source\repos\SaveFileDialogApp\SaveFileDialogApp\bin\Debug\SaveFileDialogApp.pdb
+C:\Users\srute\source\repos\SaveFileDialogApp\SaveFileDialogApp\obj\Debug\SaveFileDialogApp.exe
+C:\Users\srute\source\repos\SaveFileDialogApp\SaveFileDialogApp\obj\Debug\SaveFileDialogApp.pdb

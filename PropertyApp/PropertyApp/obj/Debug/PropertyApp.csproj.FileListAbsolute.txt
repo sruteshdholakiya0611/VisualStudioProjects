@@ -1,0 +1,8 @@
+C:\Users\srute\source\repos\PropertyApp\PropertyApp\bin\Debug\PropertyApp.exe.config
+C:\Users\srute\source\repos\PropertyApp\PropertyApp\bin\Debug\PropertyApp.exe
+C:\Users\srute\source\repos\PropertyApp\PropertyApp\bin\Debug\PropertyApp.pdb
+C:\Users\srute\source\repos\PropertyApp\PropertyApp\obj\Debug\PropertyApp.csproj.AssemblyReference.cache
+C:\Users\srute\source\repos\PropertyApp\PropertyApp\obj\Debug\PropertyApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\srute\source\repos\PropertyApp\PropertyApp\obj\Debug\PropertyApp.csproj.CoreCompileInputs.cache
+C:\Users\srute\source\repos\PropertyApp\PropertyApp\obj\Debug\PropertyApp.exe
+C:\Users\srute\source\repos\PropertyApp\PropertyApp\obj\Debug\PropertyApp.pdb
